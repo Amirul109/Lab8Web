@@ -1,10 +1,10 @@
 ## Praktikum 8: Framework Lanjutan (CRUD)
 
-Nama: Alvina Damayanti
+Nama: Amirul Mu'minin
 
-Nim: 312110125
+Nim: 312110109
 
-Kelas: TI.21.A3
+Kelas: TI.21.C2
 
 ## output
 
